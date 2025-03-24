@@ -1,3 +1,16 @@
+**Directions to run the entire project are listed below
+
+Screencast:
+
+Class tested (User):
+https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Archive/HW1copy/src/application/User.java
+
+Test class
+https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Archive/HW1copy/src/application/HW3test.java
+
+Javadoc link:
+
+
 Getting Started:
   - Download as a zip file under the Code button
   - Place and extract zip file in the Eclipse Workspace 
@@ -14,48 +27,3 @@ Getting Started:
     
 The project is now ready.
 
-Follow the screen casts for some of the userstories and changes we implemented!
-
-Phase 1
-Technichal Screencast:
-- https://www.youtube.com/watch?v=6lv5CUQEauE
-  
-User Experience Screencast
-- https://youtu.be/83lbF3gMBh4
-
-Phase 2
-Technichal Screencast:
-- https://youtu.be/PZkSdsnYznY (flow of the code)
-- https://youtu.be/NNsSHAMaFeM (functions)
-  
-User Experience Screencast
-- https://youtu.be/U6ESqtazhUY
-- https://youtu.be/kDsWRfd2ij0 (update answer and first time running program)
-
-Stand Up Recordings
-  - Feb 2: https://youtu.be/fdNShmNr9AA
-  - Feb 4: https://youtu.be/ZNjCvMk30vo
-  - Feb 11: https://youtu.be/8PM5enf_lF4
-  - Feb 17: https://youtu.be/9FqrYcIFAmo
-  - Feb 20: https://youtu.be/mYv2-iXJmG8
-  - Feb 23: https://youtu.be/POCSOWQHCXA
-  - Feb 25: https://youtu.be/9233hyhP8Lg
-
-Application Rough Draft: https://docs.google.com/presentation/d/1rE6zyn5JvCUSPGnGOsktnejpo9bnRexhPFlR2IOlhcI/edit?usp=sharing
-
-Group Notes:
-
-Added PasswordEvaluator.java and UserNameRecognizer.java classes 
-
-AdminSetupPage.java - line 53 through line 71 UserNameRecognizer caller
-                    - line 73 through line 90 calling PasswordEvaluator class
-
-PasswordEvaluator.java - line 102 invalid character checker
-                       - line 139 and below minor print statements change
-                       
-UserNameRecognizer.java - line 116 checking for first character alphabet
-                        - line 154 special character - and _ implemented as valid special character
-                        
-UserLoginPage.java - line 46 username length check
-
-SetupAccountPage.java - line 52 through line 86 username class and password class called here
