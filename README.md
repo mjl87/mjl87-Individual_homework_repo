@@ -9,8 +9,8 @@ Test class
 https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Archive/HW1copy/src/application/HW3test.java
 
 Javadoc link:
-https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/doc/index.html
-(output saved above)
+Index file -> https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/doc/index.html
+Output -> https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Javadoc%20Output.pdf
 
 Getting Started:
   - Download as a zip file under the Code button
