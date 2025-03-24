@@ -10,6 +10,7 @@ https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Archive/HW1c
 
 Javadoc link:
 Index file -> https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/doc/index.html
+
 Output -> https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Javadoc%20Output.pdf
 
 Getting Started:
