@@ -1,6 +1,6 @@
 **Directions to run the entire project are listed below
 
-Screencast:
+Screencast: https://youtu.be/2t7rodJrPXA
 
 Class tested (User):
 https://github.com/mjl87/mjl87-Individual_homework_repo/blob/master/Archive/HW1copy/src/application/User.java
